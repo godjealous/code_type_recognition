@@ -1,0 +1,183 @@
+﻿auto　 
+short　 
+int
+long 　　 
+float　　 
+double　　 
+char　 
+struct　　 
+union　 
+enum　 
+typedef　 
+const　　 
+unsigned　 
+signed　 
+extern　 
+register　　 
+static 
+volatile　 
+void　　 
+if　 
+else　 
+switch　
+case　 
+for
+do
+while　 
+goto　 
+continue　 
+break　 
+default　　 
+sizeof　 
+return
+
+and	
+del
+from
+not
+	while
+	as	
+	elif
+global
+	or
+	with
+	assert	
+	else
+	if	
+	pass
+yield
+	break	
+	except
+	import
+	print
+	class
+	exec
+in	
+raise	
+continue
+	finally	
+	is
+	return
+	def
+for
+	lambda
+	try
+	
+	
+	False       
+	def        
+	if           
+	raise
+None       
+         del      
+				 import     
+         return
+True          
+      elif        
+			in          
+			try
+and          
+       else        
+			 is         
+			 while
+as          
+        except     
+				lambda       
+				with
+assert      
+        finally   
+				nonlocal      
+				yield
+break         
+      for             
+			not
+class          
+     from      
+		 or
+continue    
+        global      
+        pass
+
+				
+asm
+do
+if
+return
+typedef
+auto
+double
+inline
+short
+typeid
+bool
+dynamic_cast
+int
+signed
+typename
+break
+else
+long
+sizeof
+union
+case
+enum
+mutable
+static
+unsigned
+catch
+explicit
+namespace
+static_cast
+using
+char
+export
+new
+struct
+virtual
+class
+extern
+operator
+switch
+void
+const
+false
+private
+template
+volatile
+const_cast
+float
+protected
+this
+wchar_t
+continue
+for
+public
+throw
+while
+default
+friend
+register
+true
+delete
+goto
+reinterpret_cast
+try				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+	
